@@ -25,6 +25,5 @@ for i in range(1,x):
             print('*', end='')
         else:
             print(end='')
-
             
     print()
